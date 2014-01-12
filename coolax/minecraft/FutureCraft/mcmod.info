@@ -1,0 +1,17 @@
+[
+{
+  "modid": "futurecraft",
+  "description": "A mod that will improve your experiance in minecraft by adding futuristic things!",
+  "name": "FutureCraft",
+  "version": "1.0.0",
+  "mcversion": "1.6.4",
+  "logoFile": "",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Coolax"],
+  "credits": "Made by me alone!",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
